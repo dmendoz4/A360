@@ -1,2 +1,0 @@
-git remote set-url origin https://<dmendoz4>:<token>@github.com/<dmendoz4>/<repo>.git
-git fetch
